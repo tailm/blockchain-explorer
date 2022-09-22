@@ -167,7 +167,7 @@ This guide assumes that you've already started the test network by following [Hy
 * Run the following to start up explore and explorer-db services after starting your fabric network:
 
     ```shell
-    $ docker-compose up -d
+    $ sudo docker-compose up -d
     ```
 
 ## Clean up
